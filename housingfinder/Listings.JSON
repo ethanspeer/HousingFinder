@@ -1,0 +1,21 @@
+{
+    "listings": [{
+        "awesome apartment": {
+            "owner": "jess",
+            "address": "102 elk rd",
+            "price": 500,
+            "tags": [
+                "fancy",
+                "nopets"
+            ]
+        },
+        "cool apartment": {
+            "owner": "jessie",
+            "address": "103 elk rd",
+            "price": 550,
+            "tags": [
+                "pets"
+            ]
+        }
+    }]
+}
