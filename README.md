@@ -1,2 +1,2 @@
 # HousingFinder
-A group project from from CSCE247 which finds housing for students.
+A group project written in Java from from CSCE247 which finds housing for students.
